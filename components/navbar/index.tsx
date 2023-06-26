@@ -136,6 +136,9 @@ const Navbar = () => {
             <Link href="https://ikigailabsxyz-curated.vercel.app/collection-rankings">
               <NavItem active={false}>Curated</NavItem>
             </Link>
+            <Link href="https://ikigailabsxyz-more.vercel.app/collection-rankings">
+              <NavItem active={false}>AI Inspired</NavItem>
+            </Link>
             <Link href="https://livethelife.tv">
               <NavItem active={false}>Editorial</NavItem>
             </Link>
